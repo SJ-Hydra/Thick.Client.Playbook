@@ -1,0 +1,31 @@
+[ ] Determine the Software in Use
+	[ ] Detect It Easy Tool
+
+[ ] Decompile and Deobfuscate
+	[ ] dnSpy - .NET debugger and assembly editor
+	[ ] Ghidra - Debug and assembly editor
+	[ ] IDA
+
+	[ ] Search Strings, in Code
+	[ ] Search Strings, in Memory (Dump Process)
+		[ ] Key
+		[ ] Secret
+		[ ] Pass
+		[ ] Password
+		[ ] Username
+		[ ] User
+
+[ ] Install on fresh Machine, DLL changes
+
+[ ] Check Software Storage Files
+	[ ] C:/ProgramData/{FileName}
+	[ ] C:/Users/{ProfileName}/AppData/*
+
+[ ] Check Software Error Logs
+
+[ ] Proxy Traffic
+	[ ] Wireshark
+	[ ] Echo Mirage
+	[ ] Proxy through MitM
+
+[ ] See Web Application Test
